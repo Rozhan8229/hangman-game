@@ -1,4 +1,4 @@
-## hangman-game
+## hangman-oop
 
 A classic Hangman word-guessing game built with Python, using an object-oriented design. The player has a limited number of attempts to guess a hidden word one letter at a time.
 
