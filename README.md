@@ -1,4 +1,4 @@
-## Hangman-oop
+## hangman-game
 
 A classic Hangman word-guessing game built with Python, using an object-oriented design. The player has a limited number of attempts to guess a hidden word one letter at a time.
 
@@ -25,14 +25,14 @@ A classic Hangman word-guessing game built with Python, using an object-oriented
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/hangman-game.git
+git clone https://github.com/Rozhan8229/hangman-game.git
 cd hangman-game
 ```
 
 ## Usage
 
 ```bash
-python hangman.py
+python Hangman.oop.py
 ```
 
 Example output:
