@@ -22,13 +22,6 @@ A classic Hangman word-guessing game built with Python, using an object-oriented
 - How to validate and sanitize user input
 - How to use set data structures to track guessed letters efficiently
 
-## Installation
-
-```bash
-git clone https://github.com/Rozhan8229/hangman-game.git
-cd hangman-game
-```
-
 ## Usage
 
 ```bash
